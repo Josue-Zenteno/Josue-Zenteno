@@ -1,2 +1,2 @@
 ### Spicy for friends 👋
-![SpicyBanner](spicybanner.png)
+![SpicyBanner](SpicyBanner.png)
