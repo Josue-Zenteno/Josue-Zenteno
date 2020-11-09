@@ -10,9 +10,5 @@
         Studying the third course at Escuela Superior de Informática - UCLM
       </img>
      </div>
-     <div>
-       <img src="" width="70" height="20" align = "left">
-       </img>
-     </div>
    </body>
  </html>
