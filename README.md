@@ -1,5 +1,4 @@
 ![SpicyBanner](SpicyBanner.png)
- <h2 align = "middle"><i> :fire: Spicy for friends :fire: </i></h2>
  <html>
    <head>
    </head>
