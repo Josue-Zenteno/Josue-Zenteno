@@ -9,7 +9,7 @@ Studying the fourth year of the degree at Escuela Superior de Informática - UCL
 
 <h1 align = "middle">🚀 Skills 🚀</h1>
 
-## ☄️ Programming Languages
+## 🌃 Programming Languages
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&labelColor=303A40)]()
 [![Java](https://img.shields.io/badge/Java-FB9200?style=for-the-badge&logo=java&logoColor=white&labelColor=303A40)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E=?style=for-the-badge&logo=javascript&logoColor=white&labelColor=303A40)]()
@@ -25,18 +25,13 @@ Studying the fourth year of the degree at Escuela Superior de Informática - UCL
 [![Markdown](https://img.shields.io/badge/Markdown-393336?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=303A40)]()
 [![LateX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=Latex&logoColor=white&labelColor=303A40)]()
 
-## ☄️ Frameworks
+## 🌃 Frameworks
 [![React](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=React&logoColor=white&labelColor=303A40)]()
 [![Express](https://img.shields.io/badge/Express-008080?style=for-the-badge&logo=express&logoColor=white&labelColor=303A40)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=303A40)]()
 
-## ☄️ IDEs
+## 🌃 IDEs
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=303A40)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-612E98?style=for-the-badge&logo=VisualStudio&logoColor=white&labelColor=303A40)]()
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_Idea-393336?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=303A40)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=303A40)]()
-
-## ☄️ Data Bases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=303A40)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=303A40)]()
-
