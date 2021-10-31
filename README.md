@@ -1,11 +1,12 @@
 # 🌌 Welcome to my Github profile! 🌌
 ### Software engineering student
+
+<img src="https://esi.uclm.es/assets/esi_logo-7a426d674c8af39655a438edfffc2668fba3816e796aa1608208d8161a2c8b01.png" width="125" height="45" align = "left">
+
 ![https://github.com/josue-zenteno](Spicy_Banner.png)
 
-<img src="https://esi.uclm.es/files/pictures/285/content_Logo_ESI_fondo_negro.jpg" width="90" height="30" align = "left">
-Studying the fourth year of the degree at Escuela Superior de Informática - UCLM
-<br/>
-<br/>
+
+<p align="center"> :books: Studying the fourth year of the degree at Escuela Superior de Informática - UCLM :books: </p>
 
 <h1 align = "middle">🚀 Skills 🚀</h1>
 
