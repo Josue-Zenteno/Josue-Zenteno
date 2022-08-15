@@ -1,13 +1,13 @@
 # 🌌 Welcome to my Github profile! 🌌
 
-![https://github.com/josue-zenteno](Spicy-Banner.png)
-
+![https://github.com/josue-zenteno](NewBanner.png)
 
 <p align="center"> :books: Studying the fourth year of the degree at Escuela Superior de Informática - UCLM :books: </p>
 
 <h1 align = "middle">🚀 Skills 🚀</h1>
 
 ## 🌃 Programming Languages
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E=?style=for-the-badge&logo=javascript&logoColor=white&labelColor=303A40)]()
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=303A40)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=303A40)]()
@@ -22,6 +22,7 @@
 [![Shell](https://img.shields.io/badge/Shell-393336?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=303A40)]()
 
 ## 🌃 Frameworks and Others
+
 [![React](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=React&logoColor=white&labelColor=303A40)]()
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=303A40)]()
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=303A40)]()
@@ -31,11 +32,13 @@
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=303A40)]()
 
 ## 🌃 Favourite IDEs
+
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=303A40)]()
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_Idea-393336?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=303A40)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-612E98?style=for-the-badge&logo=VisualStudio&logoColor=white&labelColor=303A40)]()
 
 ## 🌃 Databases
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=303A40)]()
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=303A40)]()
 [![Microsoft Access](https://img.shields.io/badge/M._Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=303A40)]()
