@@ -2,8 +2,6 @@
 
 ![https://github.com/josue-zenteno](NewBanner.png)
 
-<p align="center"> :books: Studying the fourth year of the degree at Escuela Superior de Informática - UCLM :books: </p>
-
 <h1 align = "middle">🚀 Skills 🚀</h1>
 
 ## 🌃 Programming Languages
